@@ -59,7 +59,7 @@
 .icon-mail:before { content: '\e801'; } /* '' */
 .icon-facebook:before { content: '\f09a'; font-size: 76px; margin-top: 35px} /* '' */
 .icon-mail-alt:before { content: '\f0e0'; font-size: 76px; margin-top: 35px} /* '' */
-.icon-linkedin:before { content: '\f0e1'; } /* '' */
+.icon-linkedin:before { content: '\f0e1'; font-size: 76px; margin-top: 35px} /* '' */
 .icon-laptop:before { content: '\f109'; } /* '' */
 .icon-keyboard:before { content: '\f11c'; } /* '' */
 .icon-youtube:before { content: '\f167'; font-size: 76px; margin-top: 35px} /* '' */

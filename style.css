@@ -56,6 +56,11 @@ body
 	background-color: #3095d3;
 }
 
+.tile1:hover
+{
+	background-color: #2084c2;
+}
+
 .tile2
 {
 	float: left;
@@ -63,6 +68,11 @@ body
 	width: 230px;
 	height: 142px;
 	background-color: #666666;
+}
+
+.tile2:hover
+{
+	background-color: #555555;
 }
 
 .tile3
@@ -74,20 +84,30 @@ body
 	background-color: #93c748;
 }
 
+.tile3:hover
+{
+	background-color: #82b637;
+}
+
 .tile4
 {
 	margin: 10px;
-	width: 480px;
-	height: 142px;
+	width: 420px;
+	height: 82px;
 	background-color: #ee5a32;
+	font-size: 26px;
+	padding: 30px;
+	line-height: 150%;
 }
 
 .tile5
 {
 	margin: 10px;
-	width: 480px;
-	height: 304px;
+	width: 440px;
+	height: 264px;
 	background-color: #666666;
+	text-align: justify;
+	padding: 20px;
 }
 
 .github
@@ -99,6 +119,11 @@ body
 	background-color: #6cc644;
 }
 
+.github:hover
+{
+	background-color: #5bb533;
+}
+
 .fb
 {
 	float: left;
@@ -107,6 +132,12 @@ body
 	height: 142px;
 	background-color: #4668b3;
 }
+
+.fb:hover
+{
+	background-color: #3557a2;
+}
+
 
 .instagram
 {
@@ -117,6 +148,12 @@ body
 	background-color: #125688;
 }
 
+.instagram:hover
+{
+	background-color: #014577;
+}
+
+
 .linkedin
 {
 	float: left;
@@ -124,4 +161,9 @@ body
 	width: 105px;
 	height: 142px;
 	background-color: #007bb5;
+}
+
+.linkedin:hover
+{
+	background-color: #006aa4;
 }
